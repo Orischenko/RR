@@ -1,1 +1,1 @@
-# react-redux-webpack-boilerplate
+# RR
