@@ -33,7 +33,6 @@ const tournamentsCountriesOrder = {
     1: [1, 2, 8, 3, 4, 9, 5, 13, 6, 7, 11]
 };
 
-//вместо 46 будет реальный id | this.props.params.tournamentId
 //вместо soccer будет реальный sport | this.props.params.sport
 export default class Menu extends Component {
     state = {
